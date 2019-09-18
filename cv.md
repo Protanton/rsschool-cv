@@ -16,7 +16,7 @@ Team player, result oriented, stress-resistant, proactive and hardworking. I'm g
 
 ---
 ## Skills
-Programming (Python, git, Pascal)
+Programming (Python, git, Pascal, JavaScript)
 Web (Flask, Django, nginx, gunicorn, HTML, CSS)
 Databases (MySQL, sqlite)
 MS Office, MS Windows
