@@ -1,0 +1,1 @@
+[https://Protanton.github.io/rsschool-cv/cv](https://Protanton.github.io/rsschool-cv/cv)
