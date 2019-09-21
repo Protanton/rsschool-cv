@@ -1,0 +1,313 @@
+header {   
+    max-width: 1024px;
+    height: 330px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    width: 700px;
+    height: 330px;
+    background-color: #2eb398;
+    margin: 0 auto;
+}
+
+.photo {
+    padding-right: 15px;
+    padding-top: 15px;
+    float: right;
+}
+
+.name {
+    display: inline-block;
+    position: absolute;
+    padding-left: 20px;
+    color: #d7fcf5; 
+}
+
+.position {
+    display: inline-block;
+    position: absolute;
+    padding-left: 20px;
+    padding-top: 45px;
+    color: #a9ccc6; 
+}
+
+.contacts {
+    display: inline-block;
+    position: absolute;
+    padding-top: 135px;
+    padding-left: 20px;
+}
+
+.contacts h2 {
+    color: #d7fcf5;
+}
+
+.connect a {
+    text-decoration: none;
+    color: rgb(1, 8, 2);
+}
+
+.connect a:hover {
+    color: #d7fcf5;
+}
+
+.connect {
+    padding-bottom: 10px;
+}
+
+.cont {
+    list-style: none;
+    padding-left: 0; 
+}
+
+.loc {
+    padding-right: 20px;
+    color: #1a6657;
+}
+
+.tel {
+    padding-right: 30px;
+    color: #1a6657;
+}
+
+.ema {
+    padding-right: 40px;
+    color: #1a6657;
+}
+
+.sky {
+    padding-right: 39px;
+    color: #1a6657;
+}
+
+main {
+    width: 700px;
+    height: 1220px;
+    margin: 0 auto;
+    background-color: #57dbc1;
+}
+
+.about {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 10px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.about h3 {
+    color: #d7fcf5;
+}
+
+.about span {
+    color: #1a6657;
+}
+
+.sep_1 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 10px;
+    left: 30px;
+}
+
+.sep_2 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 189px;
+    left: 30px;
+}
+
+.skills {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 200px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.skills h3 {
+    color: #d7fcf5;
+}
+
+.skills span {
+    color: #1a6657;
+}
+
+.sep_3 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 364px;
+    left: 30px;
+}
+
+.code {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 375px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 20px;
+    z-index: 99;
+}
+
+.code h3 {
+    color: #d7fcf5;
+}
+
+.code span {
+    color: #1a6657;
+}
+
+.code a {
+    text-decoration: none;
+    color: #1a6657;
+}
+
+.code a:hover {
+    color: #d7fcf5;
+}
+
+.sep_4 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 513px;
+    left: 30px;
+}
+
+.exp {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 515px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.exp h3 {
+    color: #d7fcf5;
+}
+
+.exp span {
+    color: #1a6657;
+}
+
+.sep_5 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 752px;
+    left: 30px;
+}
+
+.edu {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 758px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 20px;
+    z-index: 90;
+}
+
+.edu h3 {
+    color: #d7fcf5;
+}
+
+.ed {
+    color: #1a6657;
+    padding-left: 20px;
+}
+
+.academ {
+    text-decoration: none;
+    color: #1a6657;
+}
+
+.academ:hover {
+    color: #d7fcf5;
+}
+
+.steppy {
+    text-decoration: none;
+    color: #1a6657;
+}
+
+.steppy:hover {
+    color: #d7fcf5;
+}
+
+.stepjs {
+    text-decoration: none;
+    color: #1a6657;
+}
+
+.stepjs:hover {
+    color: #d7fcf5;
+}
+
+.sep_6 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 1021px;
+    left: 30px;
+}
+
+.eng {
+    width: 500px;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    padding-top: 1027px;
+    padding-left: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.eng h3 {
+    color: #d7fcf5;
+}
+
+.en {
+    color: #1a6657;
+    padding-left: 20px;
+}
+
+.sep_7 {
+    width: 640px;
+    height: 1px;
+    background-color: #62808a;
+    position: relative;
+    top: 1204px;
+    left: 30px;
+}
+
+footer {
+    width: 700px;
+    height: 30px;
+    background-color: #2eb398;
+    margin: 0 auto;
+}
